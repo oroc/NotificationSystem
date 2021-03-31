@@ -1,0 +1,8 @@
+{
+  "subscriptions": {
+    "topic": "testTopic",
+    "subscribers": [
+      "http://hello.world"
+    ]
+  }
+}
